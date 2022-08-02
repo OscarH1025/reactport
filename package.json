@@ -810,7 +810,7 @@
   "bugs": {
     "url": "https://github.com/OscarH1025/reactport/issues"
   },
-  "homepage": "https://oscarh1025.github.io/oscar",
+  "homepage": "https://oscarh1025.github.io/reactport",
   "browserslist": {
     "production": [
       ">0.2%",
