@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/OscarH1025/reactport/static/css/main.f7ed9163.css",
-    "main.js": "/OscarH1025/reactport/static/js/main.df0759af.js",
-    "static/js/787.a8e1f510.chunk.js": "/OscarH1025/reactport/static/js/787.a8e1f510.chunk.js",
-    "static/media/Oscar.jpeg": "/OscarH1025/reactport/static/media/Oscar.dd8aa3699dbbb09772ac.jpeg",
-    "static/media/run-buddy.jpg": "/OscarH1025/reactport/static/media/run-buddy.6276beb27a0f1c9ff87f.jpg",
-    "static/media/github.webp": "/OscarH1025/reactport/static/media/github.904b6c16276a6bb4eadb.webp",
-    "static/media/HTML5.svg": "/OscarH1025/reactport/static/media/HTML5.bf52b8cfb9729229217d.svg",
-    "index.html": "/OscarH1025/reactport/index.html",
-    "main.f7ed9163.css.map": "/OscarH1025/reactport/static/css/main.f7ed9163.css.map",
-    "main.df0759af.js.map": "/OscarH1025/reactport/static/js/main.df0759af.js.map",
-    "787.a8e1f510.chunk.js.map": "/OscarH1025/reactport/static/js/787.a8e1f510.chunk.js.map"
+    "main.css": "/reactport/static/css/main.f7ed9163.css",
+    "main.js": "/reactport/static/js/main.6444b708.js",
+    "static/js/787.a8e1f510.chunk.js": "/reactport/static/js/787.a8e1f510.chunk.js",
+    "static/media/Oscar.jpeg": "/reactport/static/media/Oscar.dd8aa3699dbbb09772ac.jpeg",
+    "static/media/run-buddy.jpg": "/reactport/static/media/run-buddy.6276beb27a0f1c9ff87f.jpg",
+    "static/media/github.webp": "/reactport/static/media/github.904b6c16276a6bb4eadb.webp",
+    "static/media/HTML5.svg": "/reactport/static/media/HTML5.bf52b8cfb9729229217d.svg",
+    "index.html": "/reactport/index.html",
+    "main.f7ed9163.css.map": "/reactport/static/css/main.f7ed9163.css.map",
+    "main.6444b708.js.map": "/reactport/static/js/main.6444b708.js.map",
+    "787.a8e1f510.chunk.js.map": "/reactport/static/js/787.a8e1f510.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7ed9163.css",
-    "static/js/main.df0759af.js"
+    "static/js/main.6444b708.js"
   ]
 }
